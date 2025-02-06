@@ -1,1 +1,2 @@
-Toda la información la he sacado de mi prima que estudia veterinaria y un día la ví y me explicó todo lo de perros
+He creado tres entradas con imágenes cada una y cada una con información sobre perros. 
+También he creado algunos usuarios con permisos 
