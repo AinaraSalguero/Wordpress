@@ -1,5 +1,1 @@
-He creado tres entradas con imágenes cada una y cada una con información sobre perros. 
-También he creado dos categorías
-He creado listas con elementos
-He añadido sección que se muestre en formato de lista
-he creado cinco usuarios más el mío de usuario como administador
+En este proyecto lo que vamos a hacer es mejorar mi página de wordpress, con usuarios, algun tipo de funcionalidad extra que luego explicaré más adelante,entradas, categorías y subcategorías. He creado cinco usuarios con cada uno de los rols como suscriptor,colaborador, editor,administrador etc.., también he creado tres catgeorías. Y tres subcategorías  
